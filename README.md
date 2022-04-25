@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/RaF4ela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaF4ela&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaF4ela&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RaF4ela&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaF4ela&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
   
@@ -22,5 +22,5 @@
     
   </div>
   
-  ![Snake animation](https://github.com/rafaballerini/RaF4ela/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/RaF4ela/RaF4ela/blob/output/github-contribution-grid-snake.svg)
   
