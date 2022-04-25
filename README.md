@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje sou estudante de engenharia mecânica, apaixonada por robótica e admiradora da programação.
-- 🌱 Estudando java, javascript e typescript
+- 📘 Estudando java, javascript e typescript
 - 😄 Pronouns:ela/dela
 
 <div align="center">
