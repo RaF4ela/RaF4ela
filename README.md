@@ -4,6 +4,7 @@
 - 🔭 Hoje sou estudante de engenharia mecânica, apaixonada por robótica e admiradora da programação.
 - 📘 Estudando java, javascript e typescript
 - 😄 Pronouns:ela/dela
+- front end in progress...
 
 <div align="center">
   <a href="https://github.com/RaF4ela">
