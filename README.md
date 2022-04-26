@@ -10,7 +10,7 @@
 
 <div>
  
- <img align="left" alt="Rafa-pic" height="140" style="border-radius:50px;" src="https://i.picasion.com/pic92/e566a5c182160bb6427ff4220d00c0a8.gif">
+ <img align="left" alt="Rafa-pic" height="120" style="border-radius:80px;" src="https://i.picasion.com/pic92/e566a5c182160bb6427ff4220d00c0a8.gif">
 </div>
   
 
