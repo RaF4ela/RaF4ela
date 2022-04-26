@@ -9,7 +9,7 @@
   <div>
  <img aling "right" alt="Rafa-gif" src= "https://i.picasion.com/pic92/e566a5c182160bb6427ff4220d00c0a8.gif"
   </div>
-<\center>
+</center>
  
 <div align="center">
   <a href="https://github.com/RaF4ela">
