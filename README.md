@@ -2,7 +2,7 @@
 ###  Bem vindo ao meu Github!
 
 - 🔭 Hoje sou estudante de engenharia mecânica, apaixonada por robótica e admiradora da programação.
-- 📘 Estudando java, javascript e typescript
+- 📘 Estudando java,,HTML,CSS, javascript e typescript
 - 😄 Pronouns:ela/dela
 - front end in progress...
 
