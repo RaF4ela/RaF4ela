@@ -1,5 +1,5 @@
 ### Oláa!! Eu sou a Maria Rafaela👋
-
+###  Bem vindo ao meu Github!
 
 - 🔭 Hoje sou estudante de engenharia mecânica, apaixonada por robótica e admiradora da programação.
 - 📘 Estudando java, javascript e typescript
@@ -13,6 +13,7 @@
 </div>
   
   
+  
   <div>
     
     
@@ -21,6 +22,9 @@
   <a href="https://www.linkedin.com/in/rafaela-arruda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   </div>
+  
+  
+  
    <div>
  <img aling "right" alt="Rafa-gif" src= "https://i.picasion.com/pic92/e566a5c182160bb6427ff4220d00c0a8.gif"
      
