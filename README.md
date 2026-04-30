@@ -8,6 +8,8 @@
 
 Atualmente em desenvolvimento na área de Engenharia de Analytics, com foco na construção de modelos analíticos, transformação e estruturação de informações para suporte à tomada de decisão.
 
+🔭 Estou aprofundando meus conhecimentos em Analytics Engineering e em processo de transição de carreira para atuar na área.
+
 Experiência prática com projetos utilizando arquitetura em camadas, modelagem dimensional e implementação de boas práticas com dbt e Modern Data Stack.
 
 ---
@@ -32,11 +34,7 @@ Experiência prática com projetos utilizando arquitetura em camadas, modelagem 
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 
-<a href="https://github.com/" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-</p>
 
 ---
 
